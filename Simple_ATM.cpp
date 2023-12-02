@@ -23,9 +23,7 @@ int main()
         cout << "Select 3 for cash deposit." << endl;
         cout << "Select 4 for total balace." << endl;
         cout << "Select 5 for exit." << endl;
-
         cin >> op;
-
         switch (op)
         {
         case 1:
